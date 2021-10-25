@@ -14,9 +14,27 @@ a {
 }
 h1 {
     font-size: 50px;
-    color: white;
+    color: orange;
 }
 h2 {
     font-size: 40px;
     color: black;
+}
+button {
+    font-size: 40px;
+    color: black;
+    background-color: whitesmoke;
+    border-width: 10px;
+    border-style: double;
+}
+img {
+    border-width: 10px;
+    border-style: double;
+}
+h3 {
+    font-size: 60px;
+    color: orangered;
+    border-width: 5px;
+    border-style: ridge;
+    border-color: black;
 }
